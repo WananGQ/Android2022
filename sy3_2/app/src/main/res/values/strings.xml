@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">sy3_2</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="sign">Sign in</string>
+    <string name="alert">Alert!</string>
+</resources>
