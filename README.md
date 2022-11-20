@@ -22,14 +22,6 @@
 ## 题目2.4
 ![image](https://github.com/WananGQ/Android2022/blob/main/sy2_4/Imge/QQ%E6%88%AA%E5%9B%BE20221013192344.png)
 # 实验三
-## 题目2.1
-![image](https://github.com/WananGQ/Android2022/blob/main/sy3_1/image/%E8%BF%90%E8%A1%8C.png)
-## 题目2.2
-![image](https://github.com/WananGQ/Android2022/blob/main/sy3_2/image/%E8%BF%90%E8%A1%8C.png)
-## 题目2.3
-![image](https://github.com/WananGQ/Android2022/blob/main/sy3_3/image/%E8%BF%90%E8%A1%8C.png)
-## 题目2.4
-![image](https://github.com/WananGQ/Android2022/blob/main/sy3_4/image/%E8%BF%90%E8%A1%8C.png)
 ## 题目3.1
 ![image](https://github.com/WananGQ/Android2022/blob/main/sy3_1/image/%E8%BF%90%E8%A1%8C.png)
 ## 题目3.2
