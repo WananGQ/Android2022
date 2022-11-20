@@ -30,3 +30,11 @@
 ![image](https://github.com/WananGQ/Android2022/blob/main/sy3_3/image/%E8%BF%90%E8%A1%8C.png)
 ## 题目2.4
 ![image](https://github.com/WananGQ/Android2022/blob/main/sy3_4/image/%E8%BF%90%E8%A1%8C.png)
+## 题目3.1
+![image](https://github.com/WananGQ/Android2022/blob/main/sy3_1/image/%E8%BF%90%E8%A1%8C.png)
+## 题目3.2
+![image](https://github.com/WananGQ/Android2022/blob/main/sy3_2/image/%E8%BF%90%E8%A1%8C.png)
+## 题目3.3
+![image](https://github.com/WananGQ/Android2022/blob/main/sy3_3/image/%E8%BF%90%E8%A1%8C.png)
+## 题目3.4
+![image](https://github.com/WananGQ/Android2022/blob/main/sy3_4/image/%E8%BF%90%E8%A1%8C.png)
