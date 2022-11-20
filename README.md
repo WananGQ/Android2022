@@ -31,18 +31,19 @@
 ## 题目3.4
 ![image](https://github.com/WananGQ/Android2022/blob/main/sy3_4/image/%E8%BF%90%E8%A1%8C.png)
 # 题目NotePad
-![image](https://github.com/WananGQ/Android2022/blob/main/notepad/imge/%E9%A6%96%E9%A1%B5.png)
 ## 首页、时间戳
-![image](https://github.com/WananGQ/Android2022/blob/main/notepad/imge/%E5%BD%95%E9%9F%B3.png)
+![image](https://github.com/WananGQ/Android2022/blob/main/notepad/imge/%E9%A6%96%E9%A1%B5.png)
 ## 录音
+![image](https://github.com/WananGQ/Android2022/blob/main/notepad/imge/%E5%BD%95%E9%9F%B3.png)
+## 录音2
 ![image](https://github.com/WananGQ/Android2022/blob/main/notepad/imge/%E5%BD%95%E9%9F%B31.png)
-## 建立录音
-![image](https://github.com/WananGQ/Android2022/blob/main/notepad/imge/%E5%BD%95%E5%83%8F.png)
 ## 录像
-![image](https://github.com/WananGQ/Android2022/blob/main/notepad/imge/%E7%85%A7%E7%9B%B81.png)
+![image](https://github.com/WananGQ/Android2022/blob/main/notepad/imge/%E5%BD%95%E5%83%8F.png)
 ## 照相
-![image](https://github.com/WananGQ/Android2022/blob/main/notepad/imge/%E7%85%A7%E7%9B%B82.png)
+![image](https://github.com/WananGQ/Android2022/blob/main/notepad/imge/%E7%85%A7%E7%9B%B81.png)
 ## 照相2
-![image](https://github.com/WananGQ/Android2022/blob/main/notepad/imge/%E6%89%8B%E5%86%99.png)
+![image](https://github.com/WananGQ/Android2022/blob/main/notepad/imge/%E7%85%A7%E7%9B%B82.png)
 ## 手写
+![image](https://github.com/WananGQ/Android2022/blob/main/notepad/imge/%E6%89%8B%E5%86%99.png)
+## 搜索
 ![image](https://github.com/WananGQ/Android2022/blob/main/notepad/imge/%E6%90%9C%E7%B4%A2.png)
