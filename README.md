@@ -30,3 +30,12 @@
 ![image](https://github.com/WananGQ/Android2022/blob/main/sy3_3/image/%E8%BF%90%E8%A1%8C.png)
 ## 题目3.4
 ![image](https://github.com/WananGQ/Android2022/blob/main/sy3_4/image/%E8%BF%90%E8%A1%8C.png)
+## 题目NotePad
+![image](https://github.com/WananGQ/Android2022/blob/main/notepad/imge/%E9%A6%96%E9%A1%B5.png)
+![image](https://github.com/WananGQ/Android2022/blob/main/notepad/imge/%E5%BD%95%E9%9F%B3.png)
+![image](https://github.com/WananGQ/Android2022/blob/main/notepad/imge/%E5%BD%95%E9%9F%B31.png)
+![image](https://github.com/WananGQ/Android2022/blob/main/notepad/imge/%E5%BD%95%E5%83%8F.png)
+![image](https://github.com/WananGQ/Android2022/blob/main/notepad/imge/%E7%85%A7%E7%9B%B81.png)
+![image](https://github.com/WananGQ/Android2022/blob/main/notepad/imge/%E7%85%A7%E7%9B%B82.png)
+![image](https://github.com/WananGQ/Android2022/blob/main/notepad/imge/%E6%89%8B%E5%86%99.png)
+![image](https://github.com/WananGQ/Android2022/blob/main/notepad/imge/%E6%90%9C%E7%B4%A2.png)
